@@ -6,7 +6,8 @@ Simply plug the Trinkey into your computer, and moving the slider will adjust yo
 
 ### 🎥 Demo Video ###
 
-[![See the Slider Trinkey in action!]((https://cdn-shop.adafruit.com/970x728/5021-05.jpg))](https://youtube.com/shorts/A27dbWUGowU?si=iIxcw3TwP2_Ak4Sp)
+
+[![Watch the video](https://cdn-shop.adafruit.com/970x728/5021-05.jpg)](https://youtube.com/shorts/A27dbWUGowU?si=iIxcw3TwP2_Ak4Sp)
 
 ### 🛠️ Setup and Dependencies ###
 
