@@ -1,14 +1,14 @@
-🎚️ Slider Trinkey Volume Controller
+## 🎚️ Slider Trinkey Volume Controller ##
 
 This repository contains the CircuitPython script for turning the Adafruit Slider Trinkey into a dedicated USB Human Interface Device (HID) volume controller.
 
 Simply plug the Trinkey into your computer, and moving the slider will adjust your system's volume (Volume Up / Volume Down). The onboard NeoPixels also provide visual feedback.
 
-🎥 Demo Video
+### 🎥 Demo Video ###
 
 See the Slider Trinkey in action!
 
-🛠️ Setup and Dependencies
+### 🛠️ Setup and Dependencies ###
 
 This script is written in CircuitPython.
 
@@ -20,7 +20,7 @@ Libraries: You must have the necessary libraries installed in the lib folder of 
 
 adafruit_hid
 
-⚙️ How the Script Works (code.py)
+### ⚙️ How the Script Works (code.py) ###
 
 The code.py script continuously reads the analog value from the linear potentiometer and maps that movement to USB Consumer Control commands.
 
